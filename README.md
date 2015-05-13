@@ -10,6 +10,8 @@ reveal:
 # Markyll :zap:
 This project is still in progress. [edit this](../../edit/gh-pages/README.md)
 
+Test: github pages only renders after a commit was pushed
+
 ## Here's the idea:
 I was annoyed by most presentation tools who
 force you to use 10 buttons to create one title slide. 
